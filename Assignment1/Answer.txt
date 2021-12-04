@@ -1,0 +1,6 @@
+Question (in English): 
+What is your all time favorite movie?
+Your Answer(in English): 
+My favorite movie is About Time.
+Your Answer(in ASCII): 
+077 121 032 102 097 118 111 114 105 116 101 032 109 111 118 105 101 032 105 115 032 065 098 111 117 116 032 084 105 109 101 046
