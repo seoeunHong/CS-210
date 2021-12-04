@@ -1,7 +1,7 @@
 /* Author: Seoeun Hong; Date: 08/05/2019;
  * Class: CS210; Project Name:GuessGame;
- * Description:Program selects the random number from 1 to 100 and the user guesses that number;
- * 			   Program shows different statements according to input value;
+ * Description:Program selects the random number from 1 to 100 and the user guesses that number
+ * 			   Program shows different statements according to input value
  * */
 import java.util.InputMismatchException;
 import java.util.Scanner;
