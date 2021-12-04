@@ -1,6 +1,6 @@
 /* Author: Seoeun Hong; Date: 07/25/2019;
  * Class: CS210; Project Name: PracticeLoop4;
- * Description:Display a number pyramid. Numbers in pyramid have certain pattern;
+ * Description:Display a number pyramid. Numbers in pyramid have certain pattern
  * */
 import java.util.Scanner;
 
